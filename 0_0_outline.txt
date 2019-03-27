@@ -3,3 +3,7 @@ I feel that CC189 can be used to learn different data structures. It is fine. Ho
 03/25/2019
 Array and string
 1_1, 1_2
+
+03/26/2019
+Finished section 1
+1_3, 1_5, 1_6, 1_7 is fine for Python. 1_7 is like LC048 
