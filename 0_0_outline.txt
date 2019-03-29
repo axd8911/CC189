@@ -7,3 +7,11 @@ Array and string
 03/26/2019
 Finished section 1
 1_3, 1_5, 1_6, 1_7 is fine for Python. 1_7 is like LC048 
+
+03/28/2019
+Started Section2 - Linked List
+It is important to learn linked list implentation because:
+1. Other data structure can be done by doing the similar procedures
+2. Learn how to code classes, and functions in classes.
+It is still important to learn to code classes externally, and import it into my current code.
+2_1, 2_2. Questions are not so difficult. Learning linked list implementation is more important.
