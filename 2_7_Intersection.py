@@ -1,7 +1,8 @@
 '''
 It takes time to implement two linked lists as example, thus no example here..
 The tips in CC189 provides a full picture of "intersection" of linked lists, it may help you to understand the conception and reduce the complexicity in number, not in scale.
-
+It is important to clearly clarify the "head" and "bottom" of a linked list.
+Read some linked list general materials.
 
 '''
 
@@ -124,18 +125,19 @@ def intersection(l1,l2):
 	return inter 
 		
 	
-
 def main():
 	l1 = LinkedList()
 	l2 = LinkedList()
 	l1.add(5)
-	l1.add(3)
+	l1.add(4)
 	l1.add(6)
 	l2.add(0)
 	l2.add(3)
-	l2.add(5)	
+	l2.add(9)
+	l2.head.setNext(l1.head.getNext())
+	print (l2.display())
 
-	a = intersection(l1,l1)
+	a = intersection(l1,l2)
 	print (a.getData())
 
 main()
