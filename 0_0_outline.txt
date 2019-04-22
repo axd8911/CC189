@@ -26,3 +26,18 @@ It is still important to learn to code classes externally, and import it into my
 04/05/2019
 2_7,2_8. Takeaways and summary refer to 04/04.
 Starting Section 3 - Stack and Queue
+
+04/21/2019
+A brief summary of section3,4 and 5
+3_1, 3_2, 3_3, 3_4, 3_5: They ask you to implement different stacks and queues to achieve different functions. It is a good practice of making classes.
+3_6: same. If using Python, there is no need to use Linked List, which they mentioned in the quesiton.
+
+Section 4 is very important. Tree and Grpah.
+I still should practise more on making Vertex and Graph classes. Implementing trees is easy, but it worths repeating.
+4_1: good example to understand graph, how vertices are connected and how to operate in a graph data structure
+4_2 and more:  Considering that recursion and iteration are used a lot in tree and graph questions, I will come back after finishing those sections (Section 8)
+It is important to do some more on operating tree and graph, such as search tree, BFS, DFS, etc. The coursera class may help.
+
+Section 5 is about bit manipulation, binary operations. It is helpful to learn those binary calculation rules. For example, if you multiple a binary number by 2, it is like moving all bits to their left.
+All questions in section 5 is easy. 
+Do not know what 5_4 and 5_8 is talking about. Skipped.
